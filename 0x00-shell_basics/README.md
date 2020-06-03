@@ -1,1 +1,2 @@
-This command allow us to know where we are at the path
+/home/vagrant/holberton-system_engineering-devops/0x00-shell_basics 
+
