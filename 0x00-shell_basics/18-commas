@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m .*/ -X
+ls -a -v -p -m
