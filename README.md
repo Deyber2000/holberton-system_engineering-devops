@@ -39,7 +39,7 @@ contained follows:
 
 ## Author :black_nib:
 
-* __Brennan D Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
+* __Deyber Castañeda__ <[Deyber2000](https://github.com/Deyber2000)>
 
 ## Acknowledgements :pray:
 
