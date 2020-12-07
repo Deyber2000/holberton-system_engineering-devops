@@ -1,3 +1,5 @@
+#create a file
+
 file { 'Holberton':
   path    => '/tmp/holberton',
   mode    => '0744',
